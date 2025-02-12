@@ -2,7 +2,7 @@
 
 This repository contains the proof of concept for **SmartScribe**, a neural speaker diarization system. Below is the directory structure and instructions for running both the frontend and backend.
 
-[Video POC]([url](https://drive.google.com/file/d/1i5aqygfSzeOw6fhn7LE2xYvxmy-vnRo_/view?usp=sharing))
+Video POC - https://drive.google.com/file/d/1i5aqygfSzeOw6fhn7LE2xYvxmy-vnRo_/view?usp=sharing
 
 ## Folder and File Structure
 
